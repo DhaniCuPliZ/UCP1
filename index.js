@@ -22,3 +22,4 @@ db.sequelize.sync()
 
 })
 
+
